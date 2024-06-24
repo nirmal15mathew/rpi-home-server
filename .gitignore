@@ -3,7 +3,6 @@ test.py
 mq_client.py
 mq_client2.py
 mosquito_client.py
-esp_code/
 coding_problems/
 assets/
 .vscode
