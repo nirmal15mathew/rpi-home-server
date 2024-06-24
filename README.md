@@ -25,8 +25,8 @@ On the RPi run:
 git clone "https://github.com/nirmal15mathew/rpi-home-server"
 ```
 
-[!NOTE]
-In the server.py you can give custom ip address, port, username passwords and other configurations
+> [!NOTE]
+> In the server.py you can give custom ip address, port, username passwords and other configurations
 
 
 ### 3. Run server
@@ -50,7 +50,7 @@ This should start the server and connect to mqtt broker
 
 Download main.ino from esp_code/main and upload it into nodemcu. make sure to update the ssid and password to your local network as well as the ip address for your raspberry pi
 
-[!IMPORTANT]
-Also give username and password (if set in the mqtt broker)
+> [!IMPORTANT]
+> Also give username and password (if set in the mqtt broker)
 
 Once started, Open serial monitor in arduino ide to see status and confirm connection
